@@ -1,0 +1,84 @@
+@media (min-width:279px) and (max-width:1023px){
+    body{
+        margin:0;
+    }
+    .main-div{
+        margin:0;
+        width:100%;
+    }
+    nav{
+        margin:0;
+        padding:0;
+        width:100%; 
+    }
+    .logo-div{
+        width:50%;
+    }
+    .logo-div img{
+        width:100%;
+        height:inherit;
+    }
+    .icon-div{
+        width:20%;
+    }
+    i{
+        margin-left:0;
+        font-size:18px;
+    }
+    .craousel-div{
+        height:550px !important;
+    }
+    .craousel-div img{
+        height:550px;
+    }
+    .slick-prev:before,
+    .slick-next:before{
+        font-size:30px !important;
+    }
+    .chocolate-div{
+        width:100%;
+        height:800px;
+    }
+    .choco-div{
+        width:100%;
+        height:450px;
+    }
+    .card-div{
+        width:30%;
+        height:inherit;
+        margin:0px 5px 0px 5px;
+    }
+    .card-div img{
+        width:100%;
+        height:350px;
+    }
+    .choco-div .slick-prev:before,
+.choco-div .slick-next:before{
+    font-size:20px !important;
+}
+.choco-div .slick-prev{
+    left: -40px;
+    top:40% !important;
+}
+.choco-div .slick-next{
+    right:-5px !important;
+    top:43% !important;
+}
+    .heading-div{
+        width:100%;
+        height:200px !important;
+    }
+    h1{
+        font-size:20px; 
+    }
+    p{
+        font-size:14px;
+    }
+    h3{
+        font-size:16px;
+        font-weight:bold;
+    }
+    button{
+        width:40%;
+    }
+}
