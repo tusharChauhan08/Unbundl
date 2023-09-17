@@ -1,4 +1,8 @@
 # Unbundl
+For run the project go the the src directory and then run the command (npm start).
+
+Then your server is started at the port no. 6035 and then you enter the (localhost:6035) into the browser and then your web app start.
+
 I am using only slick craousel for the craousel the pics of the home page. It is pre-build library for the craousel.
 
 I am using the node.js for the run time enviroment for the project to run the server side.
